@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Amra
+
+This log tracks the cryptographic history and versioning for the song **Amra** (amra).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-11T06:49:52.254449 | `v1` | `45b0ece3c21060503ccea533e6841128b722b17ad38de43ee4054a8abc793341` | `71084cd931fdbee5fe362e9c993d90b989c14a10931055e4b106469f09bea814` | `2026-05-11_amra-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
